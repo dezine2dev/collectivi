@@ -93,7 +93,3 @@ The application uses a custom glass-morphism design system with:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT
