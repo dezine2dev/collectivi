@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://repulsive-marylynne-0x194-7a5f566a.koyeb.app';
+import { API_BASE_URL } from '../data/constants';
 
 export const checkHealth = async () => {
     try {
